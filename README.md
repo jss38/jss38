@@ -41,4 +41,3 @@ Java maze game with procedural generation using Prim's algorithm
 ## 💬 Let's Connect!
 - 📫 Reach me at: jss38@protonmail.com
 - 👔 Professional network: [LinkedIn](https://linkedin.com/in/jss38)
-- 🎮 Fun fact: I love developing retro-style game prototypes in my free time
