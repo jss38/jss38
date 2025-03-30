@@ -22,6 +22,5 @@
 `Java` `OOP` `Algorithm Design`
 
 ## 🎓 Currently Learning
-- Algorithm skills through [CSES Problem Set](https://cses.fi/problemset/)
 - Concurrency patterns through Rust
 - Functional programming through Haskell
