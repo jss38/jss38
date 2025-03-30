@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Jason
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jss38)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jss38@protonmail.com)
-
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -27,8 +22,8 @@ Java maze game with procedural generation using Prim's algorithm
 `Java` `OOP` `Algorithm Design`
 
 ## 🎓 Currently Learning
-- Solving [CSES Problem Set](https://cses.fi/problemset/) 📈
-- Haskell Programming λ
+- Solving [CSES Problem Set](https://cses.fi/problemset/)
+- Haskell Programming 
 - Rust Programming 🦀
 
 ## 💬 Let's Connect!
