@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jss38)
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jss38@protonmail.com)
 
-Computer Science Student @ Simon Fraser University | Full Stack Developer | Passionate About Building Scalable Solutions
-
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
