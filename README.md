@@ -23,5 +23,5 @@ Java maze game with procedural generation using Prim's algorithm
 
 ## 🔭 Current Focus
 - Enhancing algorithm skills through [CSES Problem Set](https://cses.fi/problemset/)
-- Concurrency patterns via Rust - 🦀
-- Functional programming via Haskell - **λ**
+- Concurrency patterns via Rust 🦀
+- Functional programming via Haskell **λ**
