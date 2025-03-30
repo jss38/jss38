@@ -11,14 +11,17 @@
 
 ### [Card Collection Manager](https://github.com/jss38/Card-Collection-Manager)
 MEAN stack web application for managing card collections with image upload capabilities  
+
 `Angular` `Node.js` `MongoDB` `Docker`
 
 ### [Simple Talk Program](https://github.com/jss38/Simple-Talk)
 Real-time UDP chat application with dual client-server architecture  
+
 `C` `Socket Programming` `Multithreading`
 
 ### [Treasure Hunter Game](https://github.com/jss38/Treasure-Hunter-Game)
 Java maze game with procedural generation using Prim's algorithm  
+
 `Java` `OOP` `Algorithm Design`
 
 ## 🔭 Current Focus
