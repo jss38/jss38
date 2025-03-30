@@ -25,7 +25,3 @@ Java maze game with procedural generation using Prim's algorithm
 - Solving [CSES Problem Set](https://cses.fi/problemset/)
 - Haskell Programming 
 - Rust Programming 🦀
-
-## 💬 Let's Connect!
-- 📫 Reach me at: jss38@protonmail.com
-- 👔 Professional network: [LinkedIn](https://linkedin.com/in/jss38)
