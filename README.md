@@ -34,7 +34,7 @@ Java maze game with procedural generation using Prim's algorithm
 [![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jss38&show_icons=true&theme=radical)](https://github.com/jss38)
 
 ## 🎓 Currently Learning
-- [CSES Problem Set](https://cses.fi/problemset/) practice
+- [CSES Problem Set](https://cses.fi/problemset/) Practice
 - Haskell Programming
 - Rust Programming
 
