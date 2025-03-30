@@ -14,7 +14,6 @@ Computer Science Student @ Simon Fraser University | Full Stack Developer | Pass
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -35,9 +34,9 @@ Java maze game with procedural generation using Prim's algorithm
 [![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jss38&show_icons=true&theme=radical)](https://github.com/jss38)
 
 ## 🎓 Currently Learning
-- Distributed Systems
+- [CSES Problem Set](https://cses.fi/problemset/) practice
+- Haskell Programming
 - Rust Programming
-- Cloud Architecture Patterns
 
 ## 💬 Let's Connect!
 - 📫 Reach me at: jss38@protonmail.com
